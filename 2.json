@@ -1,11 +1,11 @@
-// 配置地址 --> clan://localhost/TVBox/qj0718/qj0718.json
+// 配置地址 --> https://kaizs18.github.io/kai/7.json
 //  clan://TVBox/qj0718/qj0718.json
 {
 // spider
-"spider":"clan://TVBox/qj0718/qj718_spider.jar",
+"spider":"https://kaizs18.github.io/0/7.jar",
 
 // 直播
-//clan://TVBox/qj0718/live.txt
+//https://kaizs18.github.io/0/bc.txt
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3FqMDcxOC9saXZlLnR4dA=="]}]}],
 
