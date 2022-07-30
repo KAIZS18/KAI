@@ -5,7 +5,7 @@
 // 设置 --> 当前接口配置 --> 透过扫码或浏览器访问网址 (如 http://172.16.xx.xx:9978/api.html)
 // 假设你已透过上述方式，成功进入"猫影视.接口"配置页面
 // 配置 --> 上传文件 --> 长按刚刚下载的懒人包 选取 --> 开启 --> 确认上传? --> 确定
-// 回到猫影视TV --> 设置 --> 当前接口配置 --> "https://gitee.com/kaizs18/00/blod/master/2.json" --> 确定 --> 躺平
+// 回到猫影视TV --> 设置 --> 当前接口配置 --> https://gitee.com/kaizs18/00/blob/master/2.json --> 确定 --> 躺平
 
 
 {
@@ -28,11 +28,8 @@
 {"key":"在线之家","name":"🐼在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小宝影院","name":"🐼小宝影院","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Libvio","name":"🐼Libvio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Auete","name":"🐼Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":},
-{"key":"csp_Cokemv"        ,"name":"🐞Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"追剧喵","name":"🐞追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Wmkk"        ,"name":"🐞完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-
+{"key":"Auete","name":"🐼Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Cokemv","name":"🐼Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_biubiu_ysgc","name":"🥒影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://tangsan99999/MeowXB/ysgc.bmp"},
 {"key":"csp_biubiu_555","name":"🥒555影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://tangsan99999/MeowXB/555.bmp"},
 {"key":"csp_biubiu_lezhu","name":"🥒乐猪(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://tangsan99999/MeowXB/lezhutv.bmp"},
