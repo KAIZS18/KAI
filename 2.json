@@ -5,7 +5,7 @@
 // 设置 --> 当前接口配置 --> 透过扫码或浏览器访问网址 (如 http://172.16.xx.xx:9978/api.html)
 // 假设你已透过上述方式，成功进入"猫影视.接口"配置页面
 // 配置 --> 上传文件 --> 长按刚刚下载的懒人包 选取 --> 开启 --> 确认上传? --> 确定
-// 回到猫影视TV --> 设置 --> 当前接口配置 --> https://kaizs18.github.io/2.json --> 确定 --> 躺平
+// 回到猫影视TV --> 设置 --> 当前接口配置 --> https://gitee.com/kaizs18/00/blob/master/2.json --> 确定 --> 躺平
 
 
 {
@@ -19,7 +19,6 @@
 
 
 "sites":[
-{"key":"csp_Cokemv"        ,"name":"🐞Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360","name":"🎾360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Kuaikan","name":"🎈快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
