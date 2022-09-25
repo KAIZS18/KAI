@@ -21,6 +21,15 @@
             "quickSearch": 1,
             "filterable": 0
         },
+{
+            "key": "csp_77",
+            "name": "🌤酷云七七",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
     {
             "key": "TT",
             "name": "TT(爬虫)",
@@ -276,6 +285,101 @@
   ],
 
   "parses":[
+{
+            "name": "解析聚合",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "Json并发",
+            "type": 2,
+            "url": "Parallel"
+        },
+        {
+            "name": "Json轮询",
+            "type": 2,
+            "url": "Sequence"
+        },
+        {
+            "name": "解析1",
+            "type": 1,
+            "url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="
+        },
+        {
+            "name": "解析2",
+            "type": 1,
+            "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe&url="
+        },
+        {
+            "name": "解析3",
+            "type": 1,
+            "url": "https://jx.bynote.top/API.php?url="
+        },
+        {
+            "name": "解析4",
+            "type": 1,
+            "url": "https://jx.bozrc.com:4433/player/?url="
+        },
+        {
+            "name": "解析5",
+            "type": 1,
+            "url": "https://jx.parwix.com:4433/player/?url="
+        },
+        {
+            "name": "解析6",
+            "type": 0,
+            "url": "https://jx.parwix.com:4433/player/analysis.php?v="
+        },
+        {
+            "name": "解析7",
+            "type": 0,
+            "url": "https://jx.m3u8.tv/jiexi/?url="
+        },
+        {
+            "name": "解析8",
+            "type": 0,
+            "url": "https://okjx.cc/?url="
+        },
+        {
+            "name": "解析9",
+            "type": 0,
+            "url": "https://www.yemu.xyz/?url="
+        },
+        {
+            "name": "解析10",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
+        },
+        {
+            "name": "解析11",
+            "type": 0,
+            "url": "https://parse.123mingren.com/?url="
+        },
+        {
+            "name": "解析12",
+            "type": 0,
+            "url": "http://www.ckmov.vip/api.php?url="
+        },
+        {
+            "name": "解析13",
+            "type": 0,
+            "url": "http://api.wpsseo.cn/?v="
+        },
+        {
+            "name": "解析14",
+            "type": 0,
+            "url": "https://go.yh0523.cn/y.cy?url="
+        },
+        {
+            "name": "解析15",
+            "type": 0,
+            "url": "https://www.ckplayer.vip/jiexi/?url="
+        },
+        {
+            "name": "解析16",
+            "type": 0,
+            "url": "https://svip.bljiex.cc/?v="
+        }
     {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
