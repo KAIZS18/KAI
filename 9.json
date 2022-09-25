@@ -12,6 +12,15 @@
             "quickSearch": 1,
             "filterable": 1
         },
+{
+            "key": "T4",
+            "name": "🐞T4爬虫",
+            "type": 4,
+            "api": "http://192.168.10.1:6060/vod?sites=all&ali_token=填token&timeout=10",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
     {
             "key": "TT",
             "name": "TT(爬虫)",
