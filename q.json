@@ -1,6 +1,6 @@
-// 配置地址 --> clan://localhost/TVBox/大整合.json
+// 配置地址 --> https://kaizs18.github.io/q.json
 {
-    "spider": "clan://TVBox/0912.jar",
+    "spider": "https://gitee.kaizs18/00/blob/master/3.jar",
     "lives": [
         {
             "group": "redirect",
