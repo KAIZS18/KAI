@@ -21,15 +21,11 @@
             "quickSearch": 1,
             "filterable": 0
         },
-{
-            "key": "T4",
-            "name": "🐞T4爬虫",
-            "type": 4,
-            "api": "http://192.168.10.1:6060/vod?sites=all&ali_token=填token&timeout=10",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
+{"key":"Upyunso","name":"😻Up云(搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/tok.txt"},
+{"key":"Yisou","name":"😺易搜(搜索)","type":3,"api":"csp_Yiso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/tok.txt"},
+{"key":"Alips","name":"🦊喵搜(搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/tok.txt"},
+{"key":"Zhaozy","name":"🐱找资源(搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/tok.txt"},
+{"key":"push_agent","name":"🛴推送(云盘/磁力)","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/tok.txt"},
 {
             "key": "csp_77",
             "name": "🌤酷云七七",
@@ -64,7 +60,6 @@
     {"key":"Smdyy_spider"        ,"name":"🐞神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
     {"key":"3EDY","name":"🐞3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"追剧喵","name":"🐞追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"追剧喵","name":"🥇追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Wmkk"        ,"name":"🐞��美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
     {"key":"csp_hbys","name":"🐞��影","api":"csp_JianYing","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"},
@@ -100,10 +95,7 @@
     {"key":"csp_biubiu_小��影院","name":"🥒小��影院XB(墙外)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://home.jundie.top:81/catvod/TVBox/MaooXB2/小��影院.json"},
     {"key":"csp_xpath_wmkk","name":"��美看看(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/Cat/MaooXP/wanmeikk.json"},
     {"key":"csp_xml___量子资源","name":"🐝量子资源"   ,"type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-    {"key":"AliPS","name":"🐱盘搜(仅搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"1f373a68733e4dafa5fa28dca9826b35"},
-    {"key":"FindZY","name":"🐱找资源(仅搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"1f373a68733e4dafa5fa28dca9826b35"},
     {"key": "push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"1f373a68733e4dafa5fa28dca9826b35"},
-
     {"key": "csp_xpath_网络搜集库qiumi","name": "球迷看球️️️","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"},
     {
       "key": "Bili",
