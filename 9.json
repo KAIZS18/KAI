@@ -45,14 +45,14 @@
             "searchable": 1
         },
 {
-            "key": "csp_xb_qsp",
-            "name": "❤️氢视频┃R",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://h1080p.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
+   "key":"csp_appysv2_ysp",
+   "name":"氢视频(部分翻墙)",
+   "type":3,
+   "api":"csp_AppYsV2",
+   "searchable":1,
+   "quickSearch":1,
+   "filterable":1,
+   "ext":"http://h1080p.com/xgapp.php/v2/"
         },
         {
             "key": "csp_xb_jiumeng",
