@@ -3,7 +3,16 @@
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=Y2xhbiUzQS8vVFZCb3gvdHYvemhpYm8udHh0JTAw"]}]}],
 
   "sites":[
-{"key": "push_agent","name": "PushAgent","type":3,"api": "csp_PushAgent","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"token"}
+{
+"key": "push_agent",
+"name": "PushAgent",
+"type":3,
+"api": "csp_PushAgent",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext":"token"
+}
 {
             "key": "t4public",
             "name": "T4公共",
