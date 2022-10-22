@@ -13,42 +13,6 @@
    "filterable":1,
    "ext":"http://h1080p.com/xgapp.php/v2/"
         },
-        {
-            "key": "77",
-            "name": "77(爬虫)",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "快看",
-            "name": "快看(爬虫)",
-            "type":3,
-            "api":"csp_Kuaikan",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key": "Lezhu",
-            "name": "乐猪(爬虫)",
-            "api": "csp_Lezhu",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
-        },
-        {
-            "key": "哔滴影视",
-            "name": "哔滴影视(爬虫)",
-            "type": 3,
-            "api": "csp_Bdys01",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
 {"key":"t4_公共","name":"📡公共(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Smdyy","name":"🦄神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch
@@ -73,55 +37,6 @@
       "filterable": 0,
       "ext": "https://www.jpys.me/vodshow/{cateId}--------{catePg}---.html"
     },
-        {
-            "key": "360",
-            "name": "360(解析)",
-            "type": 3,
-            "api": "csp_SP360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-{
-            "key":"csp_xpath_zxzj",
-            "name": "在线之家(XP)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://dxawi.github.io/1/json/zxzjp.json"
-        },
-        {
-            "key": "Gitcafe",
-            "name": "小纸条(爬虫)",
-            "type": 3,
-            "api": "csp_Gitcafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://刚刚.live/json/alitoken.json"
-        },
-        {
-            "key": "Upyunso",
-            "name": "云搜(仅搜索)",
-            "type": 3,
-            "api": "csp_Upyunso",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://刚刚.live/json/alitoken.json"
-        },
-        {
-            "key": "AliPS",
-            "name": "盘搜(仅搜索)",
-            "type":3,
-            "api":"csp_AliPS",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext": "http://刚刚.live/json/alitoken.json"
-        },
     {
       "key":"csp_Bttoo",
       "name": "🐞两个BT",
