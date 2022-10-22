@@ -3,16 +3,6 @@
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=Y2xhbiUzQS8vVFZCb3gvdHYvemhpYm8udHh0JTAw"]}]}],
 
   "sites":[
-    {
-   "key":"csp_appysv2_ysp",
-   "name":"氢视频(部分翻墙)",
-   "type":3,
-   "api":"csp_AppYsV2",
-   "searchable":1,
-   "quickSearch":1,
-   "filterable":1,
-   "ext":"http://h1080p.com/xgapp.php/v2/"
-        },
     {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"Gitcafe","name":"🦊小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"1f373a68733e4dafa5fa28dca9826b35"},
     {"key":"3EDY","name":"🐞3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
