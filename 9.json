@@ -1,5 +1,5 @@
 {
-  "spider":"https://raw.iqiq.io/kaizs18/kai/main/tj.jar",
+  "spider":"https://raw.iqiq.io/kaizs18/kai/main/cs.jar",
   "lives":[
 {"group":"redirect","channels":[
     {"name":"live","urls":[
@@ -83,15 +83,6 @@
         {
             "key": "LiteApple",
             "name": "小苹果(爬虫)",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-{
-            "key": "小苹果",
-            "name": "🍎小苹果",
             "type": 3,
             "api": "csp_LiteApple",
             "searchable": 1,
