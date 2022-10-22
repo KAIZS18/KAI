@@ -16,6 +16,10 @@
 {"key":"t4_公共","name":"📡公共(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "AliPS","name": "盘搜","type":3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"token"},
+{"key":"Lezhu_spider","name":"🦉乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
+{"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Smdyy","name":"🦄神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch
+{"key":"csp_ZJMiao","name":"🐱追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {
       "key": "csp_xb_lgyy",
       "name": "蓝光影院(R)",
