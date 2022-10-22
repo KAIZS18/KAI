@@ -128,26 +128,6 @@
             "filterable": 1
         },
         {
-            "key": "Upyunso",
-            "name": "云搜(仅搜索)",
-            "type": 3,
-            "api": "csp_Upyunso",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://刚刚.live/json/alitoken.json"
-        },
-        {
-            "key": "AliPS",
-            "name": "盘搜(仅搜索)",
-            "type":3,
-            "api":"csp_AliPS",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext": "http://刚刚.live/json/alitoken.json"
-        }, 
-        {
             "key": "推送",
             "name": "推送",
             "type":3,
