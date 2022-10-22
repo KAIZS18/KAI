@@ -14,7 +14,8 @@
    "ext":"http://h1080p.com/xgapp.php/v2/"
         },
 {"key":"t4_公共","name":"📡公共(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_77"            ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "AliPS","name": "盘搜","type":3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"token"},
 {
       "key": "csp_xb_lgyy",
       "name": "蓝光影院(R)",
