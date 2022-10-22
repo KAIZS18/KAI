@@ -47,16 +47,6 @@
             "quickSearch": 1,
             "filterable": 1
         },
-{
-      "key": "Bili",
-      "name": "哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://home.jundie.top:81/ray/json/bili.json"
-    },
     {
             "key": "TT",
             "name": "TT(爬虫)",
