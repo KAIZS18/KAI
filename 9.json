@@ -105,7 +105,6 @@
             "filterable": 0,
             "ext": "https://www.i8k.cc/vodshow/{cateId}--------{catePg}---.html"
         },
-
         {
             "key": "csp_xb_aiku",
             "name": "❤️爱酷影视┃R",
@@ -249,7 +248,6 @@
     {"key":"csp_biubiu_乐猪影视","name":"🥒乐猪影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/catvod/TVBox/MaooXB2/乐猪影视.json"},
     {"key":"csp_biubiu_口袋影院","name":"🥒口袋影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/catvod/TVBox/MaooXB2/口袋影院.json"},
   ],
-
   "parses":[
 {
       "name": "解析聚合",
