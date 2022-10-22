@@ -47,6 +47,26 @@
             "quickSearch": 1,
             "filterable": 1
         },
+{
+      "key": "Gitcafe",
+      "name": "纸条",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://刚刚.live/json/alitoken.json"
+    },
+{
+      "key": "Bili",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://home.jundie.top:81/ray/json/bili.json"
+    },
     {
             "key": "TT",
             "name": "TT(爬虫)",
