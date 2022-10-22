@@ -104,6 +104,25 @@
             "filterable": 1,
             "ext": "http://刚刚.live/json/alitoken.json"
         },
+{
+            "key":"csp_xpath_libv",
+            "name": "Libvio(XP)",
+            "type":3,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://dxawi.github.io/1/json/libvp.json"
+        },
+{
+            "key": "IQIYI",
+            "name": "爱(解析)",
+            "type": 3,
+            "api": "csp_IQIYI",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "Upyunso",
             "name": "云搜(仅搜索)",
